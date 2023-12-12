@@ -108,7 +108,7 @@ const Home = () => {
         </Form>
       )}
       <a
-        href="https://github.com/MrYogesh0709/todo"
+        href="https://github.com/MrYogesh0709/pagination-tmdbapi"
         target="_blank"
         rel="noreferrer"
       >

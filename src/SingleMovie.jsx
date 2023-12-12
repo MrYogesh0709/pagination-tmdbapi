@@ -35,7 +35,7 @@ const MovieCard = () => {
         <span className="single-movie-vote-average">{vote_average}</span>
       </div>
       <a
-        href="https://github.com/MrYogesh0709/todo"
+        href="https://github.com/MrYogesh0709/pagination-tmdbapi"
         target="_blank"
         rel="noreferrer"
       >
