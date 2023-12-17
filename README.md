@@ -7,6 +7,12 @@ TMDB API Pagination with react and react-query for caching data with responsive 
 
 https://tmdb-pagination-react.netlify.app
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`VITE_API_KEY=YOUR_API_KEY`
+
 ## Installation
 
 Install my-project with npm
